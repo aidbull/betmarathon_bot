@@ -1,7 +1,7 @@
 # betmarathon_bot
-Жесточайщий говнокод для ставок на BetMarathon 
+бот для ставок на BetMarathon 
 
-##Usage
+## Usage
 Запустить ```marathon.py```
 
 ## Authors
